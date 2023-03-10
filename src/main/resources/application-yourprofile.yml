@@ -1,0 +1,9 @@
+server:
+  port: 8082
+  servlet:
+    context-path: /api
+
+logging:
+  level:
+    ma.pfe: INFO
+    org.springframework.web: DEBUG
